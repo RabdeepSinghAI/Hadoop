@@ -1,0 +1,9 @@
+Name: Rabdeep Singh
+NetID: 1319229
+Assigned File: austen-emma.txt
+
+Hadoop MapReduce Results
+
+Mean Word Length: 4.57
+Median Word Length: 4
+Standard Deviation of Word Length: 2.639550783048606
